@@ -2,7 +2,7 @@
 
 **Custom ComfyUI nodes for long-duration audio transcription and Japanese segment SRT output using Qwen3-ASR**
 
-[![YouTube](https://img.shields.io/badge/YouTube-老後AI-red?logo=youtube)](https://youtube.com/@RogoAI)
+[![YouTube](https://img.shields.io/badge/YouTube-老後AI-red?logo=youtube)](https://youtu.be/-XDKu5yBPlY)
 [![GitHub](https://img.shields.io/github/stars/RogoAI-Takeji/ComfyUI-RogoAI-ASR?style=social)](https://github.com/RogoAI-Takeji/ComfyUI-RogoAI-ASR)
 
 ---

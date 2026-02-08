@@ -2,7 +2,7 @@
 
 **Qwen3-ASRを使った長時間音声の文字起こし・日本語SRT出力対応 ComfyUIカスタムノード**
 
-[![YouTube](https://img.shields.io/badge/YouTube-老後AI-red?logo=youtube)](https://youtube.com/@RogoAI)
+[![YouTube](https://img.shields.io/badge/YouTube-老後AI-red?logo=youtube)](https://youtu.be/-XDKu5yBPlY)
 [![GitHub](https://img.shields.io/github/stars/RogoAI-Takeji/ComfyUI-RogoAI-ASR?style=social)](https://github.com/RogoAI-Takeji/ComfyUI-RogoAI-ASR)
 
 ---
