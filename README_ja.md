@@ -2,7 +2,7 @@
 
 **Qwen3-ASRを使った長時間音声の文字起こし・日本語SRT出力対応 ComfyUIカスタムノード**
 
-[![YouTube](https://img.shields.io/badge/YouTube-老後AI-red?logo=youtube)](あなたの動画URL)
+[![YouTube](https://img.shields.io/badge/YouTube-老後AI-red?logo=youtube)](https://youtube.com/@RogoAI)
 [![GitHub](https://img.shields.io/github/stars/RogoAI-Takeji/ComfyUI-RogoAI-ASR?style=social)](https://github.com/RogoAI-Takeji/ComfyUI-RogoAI-ASR)
 
 ---
@@ -66,7 +66,12 @@ pip install -r requirements.txt
 
 ### サンプルワークフロー
 
-動画で紹介したワークフローは[こちら](workflows/)からダウンロードできます。
+[workflows/](workflows/) フォルダから以下のワークフローをダウンロードできます：
+
+- **[Original_ASR.json](workflows/Original_ASR.json)**: 公式Qwen3-ASR、Whisper、Faster Whisper比較用ワークフロー
+- **[RogoAI_Qwen3_ASR.json](workflows/RogoAI_Qwen3_ASR.json)**: RogoAI独自ノード使用（長時間対応・日本語SRT出力）
+
+**注意**: ワークフロー内のファイルパスは、ご自身のComfyUI環境に合わせて変更してください。
 
 ---
 
@@ -137,7 +142,7 @@ pip install -r requirements.txt
 ## 開発者情報
 
 **老後AI（RogoAI）/ たけ爺**
-- YouTube: [老後AI チャンネル](あなたのチャンネルURL)
+- YouTube: [老後AI チャンネル](https://youtube.com/@RogoAI)
 - コンセプト：「高齢者は時間がない。完璧な状態で公開する」
 
 年金生活でもローカルAIに挑戦する、アラセブンティーの技術ドキュメントです。

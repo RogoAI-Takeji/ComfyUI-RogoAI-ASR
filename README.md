@@ -2,7 +2,7 @@
 
 **Custom ComfyUI nodes for long-duration audio transcription and Japanese segment SRT output using Qwen3-ASR**
 
-[![YouTube](https://img.shields.io/badge/YouTube-老後AI-red?logo=youtube)](your_video_url)
+[![YouTube](https://img.shields.io/badge/YouTube-老後AI-red?logo=youtube)](https://youtube.com/@RogoAI)
 [![GitHub](https://img.shields.io/github/stars/RogoAI-Takeji/ComfyUI-RogoAI-ASR?style=social)](https://github.com/RogoAI-Takeji/ComfyUI-RogoAI-ASR)
 
 ---
@@ -64,7 +64,13 @@ pip install -r requirements.txt
 6. **Words to Segments** → Generate Japanese segment SRT
 
 ### Example Workflows
-Download sample workflows from [workflows/](workflows/) folder.
+
+Download sample workflows from the [workflows/](workflows/) folder:
+
+- **[Original_ASR.json](workflows/Original_ASR.json)**: Standard Qwen3-ASR, Whisper, and Faster Whisper comparison workflow
+- **[RogoAI_Qwen3_ASR.json](workflows/RogoAI_Qwen3_ASR.json)**: Full RogoAI nodes workflow with long-duration support and Japanese SRT output
+
+**Note**: Update file paths in the workflows to match your local ComfyUI setup.
 
 ---
 
@@ -138,7 +144,7 @@ Download sample workflows from [workflows/](workflows/) folder.
 
 Developed by a Japanese senior citizen (70s) exploring local AI on a pension budget. Philosophy: *"Elderly people don't have time to redo things - they need perfect results from the start."*
 
-- YouTube: [老後AI Channel](your_channel_url) (Japanese)
+- YouTube: [老後AI Channel](https://youtube.com/@RogoAI) (Japanese)
 - Concept: Senior-friendly AI tools with complete functionality
 
 ---
