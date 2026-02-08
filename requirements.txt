@@ -1,0 +1,10 @@
+# RogoAI-ASR Requirements
+
+# Qwen3-ASR本体（必須）
+qwen-asr
+
+# 依存パッケージ（通常は自動インストールされる）
+torch>=2.0.0
+torchaudio>=2.0.0
+transformers>=4.30.0
+numpy
